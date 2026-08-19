@@ -584,7 +584,7 @@ React Kanban UI running on:
 http://localhost:3000
 ```
 
-![Demo 1](screenshots/demo1.png)
+![Demo 2](screenshots/demo2.png)
 
 ## Demo 2 - Backend Kanban Test API
 
@@ -594,7 +594,7 @@ Spring Boot Kanban Test API running on:
 http://localhost:9191/api/kanban/test
 ```
 
-![Demo 2](screenshots/demo2.png)
+![Demo 1](screenshots/demo1.png)
 
 ---
 
